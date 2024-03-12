@@ -1,8 +1,8 @@
-Welcome to Rocky Studio
+Welcome to Rocky Studio - Created this page using HTML,CSS,Bootstrap
 
 Located in the vibrant city of Vadapalani, Chennai, Rocky Studio is your premier destination for movie editing, modeling, video shoots, and advertisement shoots. With a passion for creativity and a commitment to excellence, we provide a range of services designed to bring your vision to life.
 
-### Our Services
+Our Services
 
 **Indoor Shoots:** Step into our spacious and well-equipped indoor studio, where every corner is a canvas waiting to be painted with your creativity. Our team of experienced professionals will work with you to create stunning visuals that captivate and inspire.
 
